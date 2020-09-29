@@ -13,6 +13,8 @@ OR
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dank-del/TheRealTohskaBot) ![Docker](https://github.com/EagleUnion/Rin/workflows/Docker/badge.svg)
 
+[![Deploy](https://heroku.com/deploy?template=https://github.com/keknoice/keknoice) 
+
 ## Credits
 • [SkittBot](https://github.com/skittles9823/SkittBot) for stickers module.
 • [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot) for evaluator and more.
