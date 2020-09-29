@@ -11,7 +11,7 @@ If you want to create your own bot, you can basically follow the steps given [he
 
 OR
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dank-del/TheRealTohskaBot) ![Docker](https://github.com/EagleUnion/Rin/workflows/Docker/badge.svg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/keknoice/keknoice) ![Docker](https://github.com/EagleUnion/Rin/workflows/Docker/badge.svg)
 
 [![Deploy](https://heroku.com/deploy?template=https://github.com/keknoice/keknoice) 
 
